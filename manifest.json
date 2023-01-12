@@ -9,5 +9,8 @@
       "matches": ["*://9gag.com/gag/*"],
       "js": ["toggleComments.js"]
     }
-  ]
+  ],
+  "icons": {
+    "128": "icon128.png"
+  }
 }
