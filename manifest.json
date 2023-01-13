@@ -1,5 +1,5 @@
 {
-  "description": "Automatically opens comments on webpages matching 9gag.com/gag.",
+  "description": "This is an extension that automatically opens the comments section on 9gag.com when visiting a post. It only runs on pages that match the URL pattern 'https://9gag.com/gag/*' and does not collect any user data.",
   "manifest_version": 3,
   "name": "9gag comments",
   "version": "1.0",
